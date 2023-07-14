@@ -1,0 +1,2 @@
+name=Bharath
+print(name)
